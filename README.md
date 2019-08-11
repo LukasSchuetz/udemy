@@ -12,4 +12,4 @@ This is an introduction text. Online Change
 ## This is not even in staging area
 
 ## Copyright
-Copyright blabla 
+Copyright blabla blub blub 
