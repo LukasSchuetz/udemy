@@ -4,7 +4,7 @@
 This is an introduction text. Online Change
  
 ## How to
-I added this later
+Local change
 
 
 ## This should be only local
