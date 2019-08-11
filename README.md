@@ -16,3 +16,6 @@ Local change
 ## TONLINE
 
 ## This is not even in staging area
+
+## Copyright
+Copyright blabla 
