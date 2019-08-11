@@ -1,7 +1,7 @@
 ### udemy
 
 ## Greeting 
- hi
+This is an introduction text
  
 ## How to
 I added this later
